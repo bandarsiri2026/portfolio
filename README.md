@@ -18,6 +18,10 @@ A collection of production projects I built for clients: Laravel e-commerce site
 - MIT license for the code; third-party client assets are not licensed for reuse.
 - A `v1.0.0` tag marking the published snapshot.
 
+## Run any project locally
+
+The legacy Laravel apps need PHP 7.4, which is not available on modern systems. A ready-made Docker environment (PHP 7.4 + MySQL 5.7) is included under [local-run/](local-run/README.md): build the image, start MySQL, install dependencies and serve any project on port 8000. Screenshots in each project README were captured with it.
+
 ## Notes on the legacy stack
 
 These projects were built with Laravel 5.4–6.x and Voyager 0.11/1.x, all now end-of-life. They are presented as evidence of shipped production work — architecture, data modelling, CMS integration and search wiring — not as current framework best practice.
