@@ -9,7 +9,6 @@ A collection of production projects I built for clients: Laravel e-commerce site
 | [Svetilo — lighting e-shop](https://github.com/bandarsiri2026/svetilo-lighting-shop) | Jan – Jul 2018 | Laravel 5.5, Voyager, Algolia, shopping cart | catalogue hierarchy, full-text search, order-by-e-mail |
 | [Barabashova — hardware shop](https://github.com/bandarsiri2026/barabashova-shop) | Jan – Jun 2018 | Laravel 5.5, Voyager, Algolia | the base codebase later forked into Svetilo |
 | [Ekstrasens Valeria — landing site](https://github.com/bandarsiri2026/ekstrasens-valeria-site) | 2019 | Laravel 6.x, hand-written CSS/JS | slider, reviews, contact form, SEO plumbing |
-| [Best-Look — clothing magazine](https://github.com/bandarsiri2026/best-look-internet-magazine) | 2017 | Laravel 5.4, Voyager 0.11 | earliest project; evolved into the two shops |
 
 ## What each repository contains
 
